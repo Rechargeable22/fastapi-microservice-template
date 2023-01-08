@@ -57,5 +57,9 @@ This repository is set up for CI/CD using GitHub Actions. When you push commits 
 You can customize the CI/CD pipeline by editing the .github/workflows/ci-cd.yml file.
 
 
-License
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Install python virtual environment
+1. Run `python -m venv myenv` to create a virtual environment. For a specific location use `python -m venv ~./venv`.
+2. Run it with `venv\Scripts\activate`
