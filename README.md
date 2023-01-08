@@ -12,6 +12,8 @@ The template includes the following features:
 - [Flake8](https://flake8.pycqa.org/en/latest/) for linting
 - [GitHub Actions](https://docs.github.com/en/actions) for continuous integration and delivery (CI/CD)
 
+This template is a work in progress and is inspired by [Pragmatic AI Labs](https://www.youtube.com/watch?v=SqFFCTNyi88).
+
 ## Getting Started
 
 To get started with this template, follow these steps:
